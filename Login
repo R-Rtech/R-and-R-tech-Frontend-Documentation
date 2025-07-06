@@ -1,0 +1,8 @@
+private String empId;
+private String empPassword;
+private String Token; // JWT token for authentication
+
+empId is the employee Id like RR2020106 
+empPassword is the employee password 
+Token is genrating backend for verification of user 
+end point of login is 'http://localhost:8080/api/v1/employee/login'
